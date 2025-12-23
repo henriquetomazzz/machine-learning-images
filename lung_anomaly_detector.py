@@ -14,7 +14,7 @@ EPOCHS = 50
 LATENT_DIM_HINTS = "Autoencoder Convolucional Profundo"
 THRESHOLD_K = 2.0
 
-DATASET_PATH = './dataset' 
+DATASET_PATH = './MACHINE-LEARNIG-IMAGES' 
 
 def load_and_preprocess_image(path):
     """
